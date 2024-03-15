@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Back-end, com experiência em Java, Kotlin, e C#<br>Em busca de oportunidades para apilcar conhecimentos adiquiridos nos estudos<br>Atualmente aprendendo Python<br>Comprometido em aprender e crescer na área de desenvolviento de software
+Sou estudante de Back-end, com experiência em Java e Kotlin <br>Em busca de oportunidades para apilcar conhecimentos adiquiridos nos estudos<br>Atualmente aprendendo Python<br>Comprometido em aprender e crescer na área de desenvolviento de software
 
 
 ## 🌐 Socials:
