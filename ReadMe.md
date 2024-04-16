@@ -1,7 +1,7 @@
 # 💫 About Me:
 Olá, meu nome é Thiago Firmino de Souza, sou estudante de programação, com experiência em Java e Kotlin <br>Em busca de oportunidades para aplicar conhecimentos adiquiridos nos estudos<br>Atualmente aprendendo Python<br>
-.Comprometido em aprender e crescer na área de desenvolviento de software
-<br>.Tenho interesse em back-end, desenvolvimento mobile, desenvolvimento de software, desenvolvimento web, banco de dados 
+Comprometido em aprender e crescer na área de desenvolviento de software
+<br>Tenho interesse em back-end, desenvolvimento mobile, desenvolvimento de software, desenvolvimento web, banco de dados 
 
 
 ## 🌐 Socials:
